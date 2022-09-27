@@ -18,5 +18,5 @@ export const Header = styled.h1`
   color: pink;
   text-align: center;
   border-bottom: 3px solid #444;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 `;
